@@ -52,7 +52,7 @@ Here are a couple of projects I'm proud of. They showcase my journey from data i
 
 I believe in building in public and contributing back to the community. I'm an active contributor to:
 
-*   💪 **[MLGym](https://github.com/facebookresearch/MLGym):** | Contributed an additional task to Metas MLGym framework (kaggle titanic survival task), an experimental framework that provides a "gym" environment intended to benchmark AI agents in a variety of ML/data science tasks  
+*   💪 **[MLGym](https://github.com/facebookresearch/MLGym):** | Contributed an additional task to Metas MLGym framework (kaggle titanic survival task), an experimental framework that provides a gym environment intended to benchmark AI agents in a variety of ML/data science tasks  
 
 ---
 
